@@ -14,7 +14,7 @@ Para garantir o melhor desempenho na gestão dos dados, o projeto implementa tr�
 
 ---
 
-## 🚀 Funcionalidades e Comandos Suportados
+## Funcionalidades e Comandos Suportados
 
 O sistema lê um arquivo `.txt` de entrada. Os comandos suportados são:
 
@@ -28,6 +28,6 @@ O sistema lê um arquivo `.txt` de entrada. Os comandos suportados são:
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * **Linguagem:** C
