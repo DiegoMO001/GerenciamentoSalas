@@ -1,3 +1,6 @@
+# Disciplina: Estrutura de Dados 2
+# Ano: 2024
+
 # Gerenciador de Salas
 
 Este projeto é uma aplicação em C desenvolvida para simular o gerenciamento de salas e suas respectivas reservas. O sistema funciona via processamento em lote (batch), lendo um arquivo de texto com comandos sequenciais e registrando o histórico de execução em um arquivo de log.
