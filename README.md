@@ -1,5 +1,5 @@
 # Disciplina: Estrutura de Dados 2
-# Ano: 2023
+# Ano: 2024
 
 # Gerenciador de Salas
 
